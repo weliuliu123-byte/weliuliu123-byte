@@ -1,89 +1,63 @@
 <div align="center">
 
 # Hà Gia Bảo
-### **Digital IC Design Engineer • ASIC / FPGA • Hardware-Software Co-Design**
+**Sinh viên chuyên ngành Thiết kế Vi mạch (IC Design) — Đại học FPT**
 
-[![Major](https://img.shields.io/badge/Chuyên%20ngành-Thiết%20kế%20Vi%20mạch%20(IC%20Design)-blue?style=flat&logo=microchip&logoColor=white)](https://hcmuni.fpt.edu.vn/)
-[![University](https://img.shields.io/badge/Trường-Đại%20học%20FPT-F37021?style=flat)](https://hcmuni.fpt.edu.vn/)
 [![Email](https://img.shields.io/badge/Email-weliuliu123%40gmail.com-0078D4?style=flat&logo=gmail&logoColor=white)](mailto:weliuliu123@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-weliuliu123--byte-181717?style=flat&logo=github&logoColor=white)](https://github.com/weliuliu123-byte)
-[![Location](https://img.shields.io/badge/Location-TP.%20Hồ%20Chí%20Minh%2C%20Việt%20Nam-555555?style=flat&logo=googlemaps&logoColor=white)](https://maps.google.com)
+[![Chuyên ngành](https://img.shields.io/badge/Chuyên%20ngành-Thiết%20kế%20Vi%20mạch-0052CC?style=flat)](https://hcmuni.fpt.edu.vn/)
+[![Vị trí](https://img.shields.io/badge/Địa%20điểm-TP.%20Hồ%20Chí%20Minh-555555?style=flat)](https://maps.google.com)
 
 ---
 
 </div>
 
-## 🎯 Giới thiệu chung (About Me)
+## 📌 Giới thiệu (About Me)
 
-Sinh viên chuyên ngành **Thiết kế Vi mạch (Integrated Circuit Design)** tại **Trường Đại học FPT**, định hướng nghiên cứu và phát triển chuyên sâu vào **Digital IC / RTL Design**, **FPGA Acceleration**, **Kiến trúc máy tính (Computer Architecture)** và **Hardware-Software Co-Design**.
+Chào mọi người! Mình là **Gia Bảo**, hiện là sinh viên chuyên ngành **Thiết kế Vi mạch (IC Design)** tại Trường Đại học FPT (TP.HCM).
 
-- 🔬 **Trọng tâm kỹ thuật:** Thiết kế vi mạch số bằng Verilog/SystemVerilog, kiến trúc Datapath & FSM, thiết kế khối tính toán số học (FPU IEEE-754, bộ tăng tốc DSP, CNN Quantized), và kỹ thuật sửa lỗi SEC-DED Hamming.
-- ⚙️ **Hardware-Software Co-Design:** Am hiểu sâu sắc về cầu nối giữa phần cứng vi mạch và phần mềm hệ thống: viết Linux Kernel Driver (`char`, `ioctl`) giao tiếp thiết bị, tối ưu hóa độ trễ thời gian thực và mô phỏng trên nền tảng vi xử lý ARM Cortex-A9 (QEMU).
-- 🤝 **Hợp tác nghiên cứu & dự án:** Thường xuyên cộng tác nghiên cứu thiết kế vi mạch và bộ tăng tốc FPGA cùng [@ntue2719-commits](https://github.com/ntue2719-commits).
+- 🎯 **Định hướng học tập & nghiên cứu:** Thiết kế logic số (Digital Design) bằng **Verilog HDL**, mô phỏng và kiểm tra chức năng trên FPGA, đồng thời tìm hiểu về lập trình hệ thống nhúng (Embedded Linux / Firmware).
+- 🤝 **Dự án nhóm:** Thường xuyên cộng tác thực hiện các bài tập lớn và dự án môn học cùng bạn [@ntue2719-commits](https://github.com/ntue2719-commits).
 
 ---
 
-## 💻 Kỹ năng chuyên môn (Technical Skillset)
+## 🛠️ Kỹ năng & Công cụ (Skills & Tools)
 
-| Phân mảng | Công nghệ & Công cụ |
+| Mảng | Công nghệ & Công cụ |
 | :--- | :--- |
-| **HDL & Thiết kế RTL** | `Verilog HDL` • `SystemVerilog` • Datapath & Controller (FSM) Design • Pipelining & Timing Optimization • Fixed-Point Arithmetic (Q4.4) • Line Buffers & Memory Interfacing |
-| **Công cụ EDA & Mô phỏng** | `ModelSim / QuestaSim` • `Xilinx Vivado` • Icarus Verilog • GTKWave • Thiết kế Self-checking Testbenches |
-| **Kiến trúc máy tính & Khối xử lý** | Khối số thực IEEE-754 (FPU 32-bit) • Bộ tăng tốc xử lý ảnh 2D Convolution DSP • Thuật toán mã hóa sửa lỗi SEC-DED Hamming • Bộ điều chế/giải điều chế số BPSK • Khối suy luận mạng nơ-ron CNN |
-| **HW/SW Co-Design & Driver** | `C (C99/C11)` • `C++` • `ARM Assembly` • `Python` • Linux Device Drivers (`char`, `miscdevice`, `unlocked_ioctl`) • POSIX Real-Time (`SCHED_FIFO`, `mlockall`) • QEMU ARMv7 Cortex-A9 |
-| **Thiết kế phần cứng PCB** | `KiCad` (Thiết kế PCB 2 lớp) • Tính toàn vẹn tín hiệu (Signal Integrity) & giảm nhiễu EMI • Mạch công suất điều khiển Actuator / MOSFET • Chuẩn giao tiếp phần cứng (I2C, SPI, UART, ADC) |
+| **Ngôn ngữ** | `Verilog HDL` • `C / C++` • `Python` • `Bash` |
+| **Thiết kế số & RTL** | Thiết kế FSM, Datapath, các khối logic/số học cơ bản (bộ đếm, bộ chia tần số, bộ cộng/trừ), viết Testbench kiểm tra chức năng |
+| **Công cụ EDA & Mô phỏng** | `ModelSim` • `Xilinx Vivado` • `GTKWave` |
+| **Hệ thống nhúng & Phần cứng** | Lập trình C trên Linux nhúng (tìm hiểu Character Driver cơ bản, `ioctl`), vi điều khiển `ESP32`, vẽ sơ đồ nguyên lý và layout PCB bằng `KiCad` |
+| **Môi trường & Quản trị mã nguồn** | `Linux (Ubuntu)` • `Git / GitHub` • `QEMU` (ARM Cortex-A9) |
 
 ---
 
-## 🏆 Dự án Thiết kế Vi mạch & Phần cứng tiêu biểu
+## 📂 Dự án môn học & Thực hành tiêu biểu
 
-### 🖼️ [image-dsp-benchmark](https://github.com/ntue2719-commits/image-dsp-benchmark) *(Cộng tác cùng [@ntue2719-commits](https://github.com/ntue2719-commits))*
-*Bộ tăng tốc phần cứng (Hardware Accelerator) trên FPGA cho xử lý ảnh 2D Spatial Filtering & Convolution.*
-- Thiết kế kiến trúc **Pipelined 3×3 Sliding Window** kết hợp hệ thống **Dual Line Buffers**, đảm bảo thông lượng tính toán đạt **1 pixel / 1 chu kỳ xung nhịp (clock cycle)**.
-- Tối ưu hóa cấu trúc RTL có khả năng tùy biến linh hoạt theo kích thước ảnh (từ 256×256 đến 1024×1024) với chi phí tài nguyên phần cứng (LUTs/Registers) tối thiểu.
-
-### ⚡ [secDED-bpsk-fpga](https://github.com/ntue2719-commits/secDED-bpsk-fpga) *(Cộng tác cùng [@ntue2719-commits](https://github.com/ntue2719-commits))*
-*Thiết kế RTL trên FPGA cho hệ thống sửa lỗi Hamming SEC-DED và truyền thông số BPSK.*
-- Trực tiếp thiết kế khối **Datapath RTL** và hệ thống testbench tự động kiểm chứng toàn diện.
-- Hiện thực thuật toán mã hóa Hamming (7,4) và (8,4) mở rộng cho phép sửa 1 lỗi đơn (Single Error Correction) và phát hiện 2 lỗi kép (Double Error Detection), tích hợp pipeline điều chế/giải điều chế BPSK.
-
-### 🧮 [fpu32-ieee754-lite](https://github.com/ntue2719-commits/fpu32-ieee754-lite) — Khối tính toán số thực FPU 32-bit
-*Thiết kế vi mạch số cho bộ cộng/trừ số thực dấu chấm động chuẩn IEEE-754 Single-Precision.*
-- Hiện thực pipeline giải mã các trường Sign, Exponent, Mantissa; căn chỉnh số mũ (Exponent alignment), chuẩn hóa (Normalization) và làm tròn (Rounding).
-- Xử lý đầy đủ các trường hợp ngoại lệ phần cứng: Overflow, Underflow, NaN (Not a Number) và Zero.
-
-### 🧠 [cnn-mnist-q44](https://github.com/ntue2719-commits/cnn-mnist-q44) — Bộ tăng tốc suy luận AI trên FPGA
-*Hardware Accelerator suy luận mạng nơ-ron tích chập (CNN) cho bộ dữ liệu MNIST sử dụng số thực dấu phẩy tĩnh Q4.4.*
-- Thiết kế các khối nhân tích chập (Convolution), hàm kích hoạt ReLU và Pooling bằng logic số nguyên/fixed-point, loại bỏ nhu cầu về phần cứng dấu chấm động đắt đỏ trên FPGA.
-
-### 🐧 [Embedded Linux Systems (LOS)](https://github.com/weliuliu123-byte/LOS) — Tầng Giao tiếp HW/SW Co-Design
-*Nền tảng kiểm chứng và phát triển Linux Kernel Driver điều khiển phần cứng trên kiến trúc ARMv7-A Cortex-A9 (QEMU).*
-- Xây dựng driver giao tiếp vi mạch character device với giao diện điều khiển phần cứng `unlocked_ioctl`, bảo vệ tranh chấp tài nguyên bằng Mutex.
-- Ứng dụng giám sát cảm biến thời gian thực đa luồng POSIX (`SCHED_FIFO`, `mlockall`), kiểm chứng đạt **jitter tối đa chỉ 45 µs** và **0 bytes rò rỉ bộ nhớ** trên Valgrind.
+* **[image-dsp-benchmark](https://github.com/ntue2719-commits/image-dsp-benchmark)** *(Làm cùng [@ntue2719-commits](https://github.com/ntue2719-commits))*:
+  Mô hình RTL mô phỏng thuật toán lọc ảnh 2D cơ bản bằng Verilog, áp dụng cấu trúc line buffer và sliding window 3×3.
+* **[secDED-bpsk-fpga](https://github.com/ntue2719-commits/secDED-bpsk-fpga)** *(Làm cùng [@ntue2719-commits](https://github.com/ntue2719-commits))*:
+  Bài tập lớn hiện thực khối Datapath và Testbench kiểm tra thuật toán sửa lỗi Hamming (SEC-DED) kết hợp điều chế số BPSK.
+* **[LOS (Embedded Linux Systems)](https://github.com/weliuliu123-byte/LOS)**:
+  Kho lưu trữ bài tập thực hành môn Hệ thống Linux nhúng (LOS201): làm quen quy trình build kernel, boot QEMU giả lập ARM, viết character driver và lệnh `ioctl` đơn giản.
+* **Hệ thống giám sát chuỗi cung ứng lạnh (Nghiên cứu / Đồ án sinh viên)**:
+  Mạch đo nhiệt độ sử dụng vi điều khiển ESP32, thiết kế bo mạch PCB 2 lớp trên KiCad và thuật toán điều khiển quạt PID.
 
 ---
 
-## 📑 Nghiên cứu khoa học & Ấn phẩm (Publications)
-
-**Design and Experimental Evaluation of a Hybrid K-Means PID Controller for ESP32-Based Cold Chain Monitoring**  
-*Nguyễn Trí Tuệ, Lê Nhật Nam, **Hà Gia Bảo**, ThS. Hồ Lê Minh Toàn (GVHD)* — Trường Đại học FPT  
-- Nghiên cứu kiến trúc điều khiển hai tầng (Macro K-Means + Micro PID với cơ chế Hysteresis 0.5°C) chạy trực tiếp tại biên cảm biến (In-Sensor Computing / TinyML).
-- Thiết kế bo mạch thực nghiệm PCB 2 lớp trên KiCad đáp ứng tính toàn vẹn tín hiệu. Hệ thống đạt thời gian ổn định nhanh hơn **18.13%** so với PID truyền thống, chu kỳ thực thi chỉ **23.6 µs** với bộ nhớ **226 kB SRAM**.
-
----
-
-## 📊 Thống kê hoạt động (GitHub Metrics)
+## 📊 Hoạt động GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=weliuliu123-byte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=weliuliu123-byte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="145" />
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weliuliu123-byte&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weliuliu123-byte&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="145" />
 
 </div>
 
 ---
 
 <div align="center">
-  <sub>Thiết kế tinh gọn • Tập trung vào chất lượng kỹ thuật vi mạch & phần cứng số</sub>
+  <sub>Đang học tập và rèn luyện kỹ năng thiết kế vi mạch số & hệ thống nhúng</sub>
 </div>
