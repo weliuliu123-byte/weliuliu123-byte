@@ -65,18 +65,6 @@ Hi there! I am **Gia Bao**, an undergraduate student majoring in **Integrated Ci
 
 ---
 
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=weliuliu123-byte&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" height="145" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weliuliu123-byte&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="145" />
-
-</div>
-
----
-
 <div align="center">
   <sub>Open to discussions, learning opportunities, and feedback • Feel free to connect via email!</sub>
 </div>
